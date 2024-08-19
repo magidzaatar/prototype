@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Protype-data-entry'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AFA4FCD8F1A43EABFDDCC16FC8D4068 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB72AC58702C4680884E97F589C091D5 }}
